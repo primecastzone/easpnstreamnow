@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Disneyplus TV'
+project = 'espn com activate'
 
 
 # The full version, including alpha/beta/rc tags
