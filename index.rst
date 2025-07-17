@@ -10,7 +10,7 @@ How to Activate ESPN on Any Device via ESPN.com/activate
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_31-removebg-preview.png
    :width: 350px
    :align: center
    :height: 100px
